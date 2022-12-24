@@ -135,7 +135,6 @@ Liquibase, PostgreSQL, KeyCloak, JWT, Minio, Kafka, JUnit, Testcontainers, Docke
 Работа java-разработчиком для меня - это шанс осуществить мечту юности и стать глубоко причастным к миру ИТ, т.к. еще со студенческой поры я питал сильный интерес к автоматизации инженерных и технических расчетов, САПР, системам компьютерной алгебры и т.д. Решил развивать карьеру в этом направлении. Рассматриваю проекты в любых сферах. Быстро обучаюсь, технарь по складу ума.
 
 ### Сертификаты
-![Сертификат о прохождении обучения и стажировки в Y_Lab]
-(https://github.com/borodatyidrug/resume/blob/cd018375ef61fb02645aa02f7db81a5efa79007f/%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD_%D0%97%D1%8B%D1%80%D1%8F%D0%BD%D0%BE%D0%B2_%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82_Y_Lab.png)
+![Сертификат о прохождении обучения и стажировки в Y_Lab](https://github.com/borodatyidrug/resume/blob/cd018375ef61fb02645aa02f7db81a5efa79007f/%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD_%D0%97%D1%8B%D1%80%D1%8F%D0%BD%D0%BE%D0%B2_%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82_Y_Lab.png)
 ![Диплом Java-разработчика](https://github.com/borodatyidrug/resume/blob/bb6ecad36916532b74333bdfef29a6d8699e0941/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20Java-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D0%B0.png)
 ![Основы вёрстки сайта](https://github.com/borodatyidrug/resume/blob/bb6ecad36916532b74333bdfef29a6d8699e0941/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%B2%D0%B5%D1%80%D1%81%D1%82%D0%BA%D0%B8.png)
