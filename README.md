@@ -123,6 +123,7 @@ Liquibase, PostgreSQL, KeyCloak, JWT, Minio, Kafka, JUnit, Testcontainers, Docke
 Специалист (инженер-механик)
 
 ### Курсы, тренинги
+* 2022, Y_Lab, Погружение в Java
 * 2022, Нетология, Java-разработчик
 * 2022, Нетология, Основы верстки сайта
 
